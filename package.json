@@ -1,0 +1,16 @@
+{
+  "name": "website-esv-deggendorf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwind": "npx tailwindcss -i ./themes/esv-deggendorf/assets/css/main.css -o ./themes/esv-deggendorf/assets/dist/main.css",
+    "tailwind:watch": "npx tailwindcss -i ./themes/esv-deggendorf/assets/css/main.css -o ./themes/esv-deggendorf/assets/dist/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  }
+}
