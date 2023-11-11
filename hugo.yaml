@@ -1,4 +1,38 @@
 baseURL: 'https://esv-deggendorf.de/'
-languageCode: 'de-de'
+languageCode: 'de-DE'
 title: 'ESV Deggendorf'
 theme: 'esv-deggendorf'
+
+defaultContentLanguage: de
+languages:
+  de:
+    contentDir: content
+    disabled: false
+    languageCode: de-DE
+    languageDirection: ltr
+    languageName: Deutsch
+
+params:
+  logo: "images/logo.png"
+
+menus:
+  main:
+  - name: 'Home'
+    pageRef: '/'
+    weight: 10
+  - name: 'Posts'
+    pageRef: '/posts'
+    weight: 11
+  - name: 'Menu 2'
+    pageRef: '/menu2'
+    weight: 20
+  - name: 'Menu 3'
+    pageRef: '/menu3'
+    weight: 30
+  - name: 'Menu 4'
+    pageRef: '/menu4'
+    weight: 40
+
+disableKinds:
+- taxonomy
+- term
