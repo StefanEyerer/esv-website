@@ -15,4 +15,23 @@
     h4 {
         @apply text-xl;
     }
+    a:hover {
+        @apply text-red-800;
+    }
+}
+
+.pagination {
+    @apply flex;
+    @apply gap-2;
+}
+
+.page-item {
+    @apply bg-zinc-300;
+    @apply hover:bg-zinc-400;
+    @apply rounded-md;
+    @apply p-2;
+}
+
+.page-item.active {
+    @apply bg-zinc-400;
 }

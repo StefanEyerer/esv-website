@@ -19,7 +19,7 @@ Renders a menu for the given menu ID.
           {{- $attrs = merge $attrs (dict "class" "active underline" "aria-current" "page") }}
         {{- end }}
         {{- $name := .Name }}
-        <li class="hover:text-red-800">
+        <li>
           <a
             {{- range $k, $v := $attrs }}
               {{- with $v }}

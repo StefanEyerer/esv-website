@@ -1,15 +1,21 @@
 {{ define "main" }}
-  <div class="flex flex-col items-center lg:items-start gap-8">
-    <div class="flex flex-col items-center lg:items-start gap-4">
+  <div class="flex flex-col items-center justify-center gap-8">
+    <div class="flex flex-col items-center justify-center gap-4">
       {{ .Content }}
     </div>
-    <div class="flex flex-col lg:flex-row flex-wrap items-center lg:items-start gap-4">
-      {{ range .Pages }}
-        <div class="flex flex-col p-4 mb-4 border-2 border-zinc-400 rounded-md w-96 gap-2">
-          <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+    <div class="flex flex-col lg:flex-row flex-wrap items-center justify-center gap-4">
+      {{ range .Paginator.Pages }}
+        <div class="flex flex-col items-center p-4 mb-4 bg-zinc-300 rounded-md w-96 gap-4">
+          <div class="flex flex-col items-center">
+            <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+            {{ $dateMachine := .Date | time.Format "2006-01-02" }}
+            {{ $dateHuman := .Date | time.Format ":date_long" }}
+            <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+          </div>
           {{ .Summary }}
         </div>
       {{ end }}
     </div>
+    {{- template "_internal/pagination.html" . -}}
   </div>
 {{ end }}
