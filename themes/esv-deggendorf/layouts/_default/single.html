@@ -1,4 +1,13 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
+  <div class="flex flex-col gap-8">
+    <div class="flex flex-col items-center lg:items-start gap-2">
+      <h2>{{ .Title }}</h2>
+      {{ $dateMachine := .Date | time.Format "2006-01-02" }}
+      {{ $dateHuman := .Date | time.Format ":date_long" }}
+      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    </div>
+    <div class="flex flex-col gap-4">
+      {{ .Content }}
+    </div>
+  </div>
 {{ end }}

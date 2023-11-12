@@ -3,15 +3,15 @@
   <head>
     {{ partial "head.html" . }}
   </head>
-  <body class="font-sans">
-    <div class="bg-gray-200 text-gray-800 flex flex-col h-screen m-0">
-      <header class="bg-gray-800 text-gray-200 static w-full">
+  <body class="bg-zinc-200 text-zinc-800 box-border font-sans">
+    <div class="flex flex-col h-screen m-0">
+      <header class="bg-zinc-800 text-zinc-200 static w-full">
         {{ partial "header.html" . }}
       </header>
-      <main class="flex flex-col align-top justify-center w-full lg:max-w-6xl lg:mx-auto">
+      <main class="flex flex-col p-4 lg:p-0 lg:py-6 w-full lg:max-w-7xl lg:mx-auto">
         {{ block "main" . }}{{ end }}
       </main>
-      <footer class="bg-gray-800 text-gray-200 static w-full mt-auto">
+      <footer class="bg-zinc-800 text-zinc-200 static w-full mt-auto">
         {{ partial "footer.html" . }}
       </footer>
     </div>

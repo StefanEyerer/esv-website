@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Post2
 date: "2022-11-11"
 ---
 

@@ -16,7 +16,7 @@ Renders a menu for the given menu ID.
       {{- range . }}
         {{- $attrs := dict "href" .URL }}
         {{- if $page.IsMenuCurrent .Menu . }}
-          {{- $attrs = merge $attrs (dict "class" "active underline text-red-800" "aria-current" "page") }}
+          {{- $attrs = merge $attrs (dict "class" "active underline" "aria-current" "page") }}
         {{- end }}
         {{- $name := .Name }}
         <li class="hover:text-red-800">

@@ -17,12 +17,9 @@ params:
 
 menus:
   main:
-  - name: 'Home'
-    pageRef: '/'
+  - name: 'News'
+    pageRef: '/news'
     weight: 10
-  - name: 'Posts'
-    pageRef: '/posts'
-    weight: 11
   - name: 'Menu 2'
     pageRef: '/menu2'
     weight: 20
