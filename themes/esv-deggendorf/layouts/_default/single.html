@@ -5,7 +5,7 @@
       {{ $dateMachine := .Date | time.Format "2006-01-02" }}
       {{ $dateHuman := .Date | time.Format ":date_long" }}
       <time datetime="{{ $dateMachine }}">
-        <i class="font-mono text-sm">{{ $dateHuman }}</i>
+        <i class="text-sm">{{ $dateHuman }}</i>
       </time>
     </div>
     <div class="flex flex-col gap-4">
