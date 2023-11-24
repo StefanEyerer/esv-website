@@ -4,7 +4,9 @@
       <h2>{{ .Title }}</h2>
       {{ $dateMachine := .Date | time.Format "2006-01-02" }}
       {{ $dateHuman := .Date | time.Format ":date_long" }}
-      <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+      <time datetime="{{ $dateMachine }}">
+        <i class="font-mono text-sm">{{ $dateHuman }}</i>
+      </time>
     </div>
     <div class="flex flex-col gap-4">
       {{ .Content }}

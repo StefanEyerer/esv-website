@@ -1,5 +1,24 @@
 {{ define "main" }}
-  <div class="flex flex-col items-center justify-center gap-4">
-    {{ .Content }}
+  <div class="flex flex-col items-center justify-center gap-12">
+    <div class="flex flex-col items-center justify-center gap-4">
+      {{ .Content }}
+    </div>
+    <div class="flex flex-col lg:flex-row flex-wrap items-center justify-center gap-0 lg:gap-8">
+      {{ $section := where .Site.RegularPages "Section" "in" "news" }}
+      {{ range (first 3 $section) }}
+        <div class="flex flex-col p-6 mb-4 bg-zinc-100 w-96">
+          <div class="flex flex-col mb-4">
+            <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+            {{ $dateMachine := .Date | time.Format "2006-01-02" }}
+            {{ $dateHuman := .Date | time.Format ":date_long" }}
+            <time datetime="{{ $dateMachine }}">
+              <i class="font-mono text-sm">{{ $dateHuman }}</i>
+            </time>
+          </div>
+          {{ .Summary }}
+          <a href="{{ .RelPermalink }}">[...]</a>
+        </div>  
+      {{ end }}
+    </div>
   </div>
 {{ end }}
