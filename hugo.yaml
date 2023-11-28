@@ -47,3 +47,9 @@ menus:
 disableKinds:
   - taxonomy
   - term
+
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
+      unsafe: true
