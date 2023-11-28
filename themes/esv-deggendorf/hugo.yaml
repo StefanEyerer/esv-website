@@ -1,8 +1,8 @@
-baseURL: 'https://example.org/'
-languageCode: 'de-DE'
-title: 'My New Hugo Site'
+baseURL: https://example.org/
+languageCode: de-DE
+title: My New Hugo Site
 
 module:
   hugoVersion:
     extended: false
-    min: "v0.116.0"
+    min: 0.116.0
