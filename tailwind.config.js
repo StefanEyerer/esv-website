@@ -1,12 +1,11 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./themes/esv-deggendorf/layouts/**/*.html"],
+  content: ["./layouts/**/*.html"],
   theme: {
     extend: {},
     fontFamily: {
-      'avenir': ['"avenir next"', 'avenir', 'system-ui']
-    }
+      avenir: ['"avenir next"', "avenir", "system-ui"],
+    },
   },
   plugins: [],
-}
-
+};

@@ -1,7 +1,6 @@
 baseURL: https://esv-deggendorf.de/
 languageCode: de-DE
 title: ESV Deggendorf
-theme: esv-deggendorf
 
 defaultContentLanguage: de
 languages:
