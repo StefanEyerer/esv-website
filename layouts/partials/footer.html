@@ -1,3 +1,16 @@
-<p class="flex items-center justify-center py-4 text-sm">
-    Copyright &copy; {{ now.Year }} - ESV Deggendorf
+<p class="flex items-center justify-center gap-2 py-4 text-sm">
+  <span>Copyright &copy; {{ now.Year }} - ESV Deggendorf</span>
+  <span>|</span>
+  <a class="underline" href="/impressum">Impressum</a>
+  <span>|</span>
+  <a href="https://www.facebook.com/EisenbahnerSportvereinDeggendorf/">
+    {{ with resources.Get "images/facebook.svg" }}
+      <img src="{{ .RelPermalink }}" alt="Facebook" width="25" />
+    {{ end }}
+  </a>
+  <a href="https://www.instagram.com/esvdeggendorf/">
+    {{ with resources.Get "images/instagram.svg" }}
+      <img src="{{ .RelPermalink }}" alt="Instagram" width="25" />
+    {{ end }}
+  </a>
 </p>

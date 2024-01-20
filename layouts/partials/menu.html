@@ -14,20 +14,27 @@ Renders a menu for the given menu ID.
   <nav class="text-lg">
     <ul class="flex flex-col lg:flex-row gap-0 lg:gap-3">
       {{- range . }}
-        {{- $attrs := dict "href" .URL }}
-        {{- if $page.IsMenuCurrent .Menu . }}
-          {{- $attrs = merge $attrs (dict "class" "active underline" "aria-current" "page") }}
-        {{- end }}
+        {{- $URL := .URL }}
         {{- $name := .Name }}
-        <li>
-          <a
-            {{- range $k, $v := $attrs }}
-              {{- with $v }}
-                {{- printf " %s=%q" $k $v | safeHTMLAttr }}
-              {{- end }}
-            {{- end -}}
-          >{{ $name }}</a>
-        </li>
+        {{- if not .HasChildren }}
+          <li class="{{ if $page.IsMenuCurrent .Menu . }}text-zinc-500{{ end }}">
+            <a href="{{ $URL }}">{{ $name }}</a>
+          </li>
+        {{- else }}
+          <li class="dropdown hover:cursor-pointer">
+            <span class="hover:text-zinc-500">
+              <span for="{{ $name }}">{{ $name }}</span>
+              <span class="text-xs">&#9660;</span>
+            </span>
+            <ul class="dropdown-content border border-zinc-500 bg-zinc-800 py-1 z-50 absolute hidden">
+            {{- range .Children }}
+              <li class="px-4 py-1">
+                <a href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+            {{- end }}
+            </ul>
+          </li>
+        {{- end }}
       {{- end }}
     </ul>
   </nav>

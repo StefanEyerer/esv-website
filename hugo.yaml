@@ -24,24 +24,51 @@ menus:
     - name: "News"
       pageRef: "/news"
       weight: 10
+    - name: "Verein"
+      weight: 20
     - name: "Vorstandschaft"
       pageRef: "/vorstandschaft"
-      weight: 20
-    - name: "Trainer"
-      pageRef: "/trainer"
+      parent: "Verein"
+      weight: 21
+    - name: "Veranstaltungen"
+      pageRef: "/veranstaltungen"
+      parent: "Verein"
+      weight: 22
+    - name: "Jugend"
+      pageRef: "/jugend"
+      parent: "Verein"
+      weight: 23
+    - name: "Inklusion"
+      pageRef: "/inklusion"
+      parent: "Verein"
+      weight: 24
+    - name: "Geschichte"
+      pageRef: "/geschichte"
+      parent: "Verein"
+      weight: 25
+    - name: "Tennis"
       weight: 30
-    - name: "Mannschaften"
-      pageRef: "/mannschaften"
-      weight: 40
+    - name: "Unsere Trainer:innen"
+      pageRef: "/trainer"
+      parent: "Tennis"
+      weight: 31
+    - name: "Mannschaften Erwachsene"
+      pageRef: "/mannschaften-erwachsene"
+      parent: "Tennis"
+      weight: 32
+    - name: "Mannschaften Jugend"
+      pageRef: "/mannschaften-jugend"
+      parent: "Tennis"
+      weight: 33
     - name: "Faustball"
       pageRef: "/faustball"
-      weight: 50
+      weight: 40
     - name: "Fitness"
       pageRef: "/fitness"
+      weight: 50
+    - name: "Downloads"
+      pageRef: "/downloads"
       weight: 60
-    - name: "Impressum"
-      pageRef: "/impressum"
-      weight: 99
 
 disableKinds:
   - taxonomy
