@@ -13,7 +13,7 @@ languages:
 
 params:
   imgHome: images/esv_wide.jpg
-  imgLogo: images/logo.png
+  imgLogo: images/esv_logo.png
 
 paginate: 3
 
