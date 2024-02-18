@@ -5,9 +5,14 @@
         <img class="lg:block hidden rounded-sm opacity-90" src="{{ .RelPermalink }}" alt="ESV-Logo" width="100">
       </a>
     {{ end }}
-    {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+    <div class="flex flex-col lg:flex-row items-center justify-center gap-4">
+      {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+      <a class="bg-red-950 hover:bg-red-900 rounded-lg text-lg px-4 py-2" href="https://esv-deggendorf.courtbooking.de" target="_blank">
+        <span class="text-zinc-200">Courtbooking</span>
+      </a>
+    </div>
   </div>
-  <div class="flex items-center justify-center w-full h-44 bg-red-800 opacity-40">
+  <div class="flex items-center justify-center w-full h-44 bg-red-950">
     <h1>{{ .Title }}</h1>
   </div>
 </div>
