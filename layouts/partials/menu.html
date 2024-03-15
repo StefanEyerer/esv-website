@@ -17,7 +17,7 @@ Renders a menu for the given menu ID.
         {{- $URL := .URL }}
         {{- $name := .Name }}
         {{- if not .HasChildren }}
-          <li class="{{ if $page.IsMenuCurrent .Menu . }}text-white border-red-900{{ end }} pt-1 border-t-2 border-transparent hover:border-red-900 transition-all">
+          <li class="pt-1 border-t-2 hover:border-red-900 transition-all {{ if $page.IsMenuCurrent .Menu . }}text-white border-red-900{{ else }}border-transparent{{ end }}">
             <a href="{{ $URL }}">{{ $name }}</a>
           </li>
         {{- else }}
