@@ -15,7 +15,8 @@ params:
   imgHome: images/esv_wide.jpg
   imgLogo: images/esv_logo.png
 
-paginate: 3
+paginate: 6
+summaryLength: 50
 
 menus:
   main:
