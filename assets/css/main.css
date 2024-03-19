@@ -16,8 +16,12 @@
     @apply text-xl;
   }
   a:hover {
-    @apply text-white;
+    @apply text-red-900;
   }
+}
+
+#main-nav a {
+  @apply hover:text-white;
 }
 
 @media (max-width: 1024px) {
@@ -75,6 +79,7 @@
   @apply rounded-md;
   @apply bg-zinc-100;
   @apply hover:bg-red-900;
+  @apply hover:text-white;
 }
 
 .page-item.active a {
