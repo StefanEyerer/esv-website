@@ -7,20 +7,20 @@ layout: veranstaltungen
 
 <hr />
 
-{{% veranstaltungen-section eventDate="12. April 2024" eventTitle="Infoabend für Neumitglieder" border="true" %}}
-{{% veranstaltungen-section eventDate="20. & 21. April 2024" eventTitle="Saisonvorbereitung für Mannschaftsspieler" border="true" %}}
-{{% veranstaltungen-section eventDate="01. Mai 2024" eventTitle="Mascherl-Turnier mit anschließender Auslosung der Freizeit- und Rolli-Runde" border="true" %}}
-{{% veranstaltungen-section eventDate="18. Mai 2024" eventTitle="Tag des ESV" border="true" %}}
-{{% veranstaltungen-section eventDate="31. Mai bis 02. Juni 2024" eventTitle="VDES Meisterschaften" border="true" %}}
-{{% veranstaltungen-section eventDate="20. Juli 2024" eventTitle="Fränkischer Sommernachtsabend" border="true" %}}
-{{% veranstaltungen-section eventDate="27. Juli 2024" eventTitle="Music Mixed" border="true" %}}
+{{% veranstaltungen-section eventDate="12.04.24" eventTitle="Infoabend für Neumitglieder" border="true" %}}
+{{% veranstaltungen-section eventDate="20.04.24 - 21.04.24" eventTitle="Saisonvorbereitung für Mannschaftsspieler" border="true" %}}
+{{% veranstaltungen-section eventDate="01.05.24" eventTitle="Mascherl-Turnier mit anschließender Auslosung der Freizeit- und Rolli-Runde" border="true" %}}
+{{% veranstaltungen-section eventDate="18.05.24" eventTitle="Tag des ESV" border="true" %}}
+{{% veranstaltungen-section eventDate="31.05.24 - 02.06.24" eventTitle="VDES Meisterschaften" border="true" %}}
+{{% veranstaltungen-section eventDate="20.07.24" eventTitle="Fränkischer Sommernachtsabend" border="true" %}}
+{{% veranstaltungen-section eventDate="27.07.24" eventTitle="Music Mixed" border="true" %}}
 {{% veranstaltungen-section eventDate="Ende Juli 2024" eventTitle="Ausflug nach Großhesselohe (Tennis Bundesliga)" border="true" %}}
-{{% veranstaltungen-section eventDate="14. August 2024" eventTitle="ESV Pub-Quiz" border="true" %}}
-{{% veranstaltungen-section eventDate="13. bis 15. September 2024" eventTitle="Deggendorfer Stadtmeisterschaften" border="true" %}}
-{{% veranstaltungen-section eventDate="21. September 2024" eventTitle="Abschluss der Freizeit- und Rolli-Runde" border="true" %}}
+{{% veranstaltungen-section eventDate="14.08.24" eventTitle="ESV Pub-Quiz" border="true" %}}
+{{% veranstaltungen-section eventDate="13.09.24 - 15.09.24" eventTitle="Deggendorfer Stadtmeisterschaften" border="true" %}}
+{{% veranstaltungen-section eventDate="21.09.24" eventTitle="Abschluss der Freizeit- und Rolli-Runde" border="true" %}}
 {{% veranstaltungen-section eventDate="Herbst 2024" eventTitle="Erste-Hilfe-Kurs" border="true" %}}
-{{% veranstaltungen-section eventDate="18. Oktober 2024" eventTitle="ESV Herrenabend" border="true" %}}
-{{% veranstaltungen-section eventDate="14. Dezember 2024" eventTitle="ESV Weihnachtsfeier" border="true" %}}
+{{% veranstaltungen-section eventDate="18.10.24" eventTitle="ESV Herrenabend" border="true" %}}
+{{% veranstaltungen-section eventDate="14.12.24" eventTitle="ESV Weihnachtsfeier" border="true" %}}
 {{% veranstaltungen-section eventDate="Januar/Februar 2025" eventTitle="ESV Skibus" %}}
 
 <hr />
@@ -29,10 +29,12 @@ layout: veranstaltungen
 
 <hr />
 
-{{% veranstaltungen-section eventDate="12. April 2024" eventTitle="Brett- & Kartenspiel Nachmittag mit anschließendem Infoabend für die Eltern" border="true" %}}
-{{% veranstaltungen-section eventDate="27. April 2024" eventTitle="Trainingstag" border="true" %}}
-{{% veranstaltungen-section eventDate="18. Mai 2024" eventTitle="Spaß- & Spieltag" border="true" %}}
-{{% veranstaltungen-section eventDate="Ende Juli 2024" eventTitle="Ausflug nach Großhesselohe (Tennis Bundesliga) - hier dürfen unsere Kleinen Ballkinder sein" border="true" %}}
-{{% veranstaltungen-section eventDate="05. bis 08. August 2024" eventTitle="Feriencamp für ESV-Kinder & Friends (5 - 14 Jahre)" border="true" %}}
-{{% veranstaltungen-section eventDate="22. September 2024" eventTitle="Saisonabschluss" border="true" %}}
+{{% veranstaltungen-section eventDate="12.04.24 (15-17 Uhr)" eventTitle="Brett- & Kartenspiel Nachmittag" border="true" %}}
+{{% veranstaltungen-section eventDate="12.04.24 (ab 17 Uhr)" eventTitle="Infoabend für die Eltern" border="true" %}}
+{{% veranstaltungen-section eventDate="27.04.24 (10-12 Uhr)" eventTitle="Trainingstag U8 + U10 + U12" border="true" %}}
+{{% veranstaltungen-section eventDate="27.04.24 (13-15 Uhr)" eventTitle="Trainingstag U15 + U18" border="true" %}}
+{{% veranstaltungen-section eventDate="18.05.24 (12-14 Uhr)" eventTitle="Spaß- & Spieltag" border="true" %}}
+{{% veranstaltungen-section eventDate="Ende Juli 2024 (ganztags)" eventTitle="Ausflug nach Großhesselohe (Tennis Bundesliga) - hier dürfen unsere Kleinen Ballkinder sein" border="true" %}}
+{{% veranstaltungen-section eventDate="05.08.24 - 08.08.24 (je 09-14 Uhr)" eventTitle="Feriencamp für ESV-Kinder & Friends (5 - 14 Jahre)" border="true" %}}
+{{% veranstaltungen-section eventDate="22.09.24 (10-13 Uhr)" eventTitle="Saisonabschluss mit Pizza" border="true" %}}
 {{% veranstaltungen-section eventDate="Herbst 2024" eventTitle="Jugendtreff" %}}
