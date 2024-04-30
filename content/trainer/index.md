@@ -25,7 +25,7 @@ layout: trainer
 **Michael Peschl**
 {{% /image-card %}}
 {{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
-**Sebastian Gierl**
+**Sebastian Baumann**
 {{% /image-card %}}
 {{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Alex Schirmer**
