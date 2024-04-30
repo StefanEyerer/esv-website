@@ -11,22 +11,22 @@ Renders a menu for the given menu ID.
 {{- $menuID := .menuID }}
 
 {{- with index site.Menus $menuID }}
-  <nav class="text-lg">
-    <ul class="flex flex-col lg:flex-row gap-0 lg:gap-3">
+  <nav id="main-nav" class="uppercase text-lg" data-menu-open="false">
+    <ul class="flex flex-col lg:flex-row gap-0 lg:gap-4">
       {{- range . }}
         {{- $URL := .URL }}
         {{- $name := .Name }}
         {{- if not .HasChildren }}
-          <li class="{{ if $page.IsMenuCurrent .Menu . }}text-zinc-500{{ end }}">
+          <li class="{{ if $page.IsMenuCurrent .Menu . }}text-white border-red-900{{ end }} pt-1 border-t-2 border-transparent hover:border-red-900 transition-all">
             <a href="{{ $URL }}">{{ $name }}</a>
           </li>
         {{- else }}
-          <li class="dropdown hover:cursor-pointer">
-            <span class="hover:text-zinc-500">
+          <li class="dropdown hover:cursor-pointer pt-1 border-t-2 border-transparent hover:border-red-900 transition-all">
+            <span class="hover:text-white">
               <span for="{{ $name }}">{{ $name }}</span>
               <span class="text-xs">&#9660;</span>
             </span>
-            <ul class="dropdown-content lg:absolute lg:hidden lg:border border-zinc-500 bg-zinc-800 py-1 z-50">
+            <ul class="dropdown-content lg:absolute lg:hidden lg:border lg:border-zinc-500 lg:bg-zinc-800 py-1 z-50">
             {{- range .Children }}
               <li class="px-4 py-1">
                 <a href="{{ .URL }}">{{ .Name }}</a>
@@ -38,4 +38,5 @@ Renders a menu for the given menu ID.
       {{- end }}
     </ul>
   </nav>
+  <button id="menu-btn" data-menu-open="false"></button>
 {{- end }}
