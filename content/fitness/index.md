@@ -10,9 +10,9 @@ Einmal wöchentlich treffen sich die "ESV-Walkers" für eine schöne ausgiebige 
 {{% /image-section-1 %}}
 
 {{% image-section-2 imgSrc="images/fitness/fitness02.jpg" imgAlt="Fitness" imgWidth="400" %}}
-Neben dem Nordic-Walking steht unseren Fitness-Begeisterten während der Wintersaison auch die Turnhalle der St.-Martin Grundschule in Deggendorf zur Verfügung. Dabei besteht abwechselnd die Möglichkeit an Gymnastik, HIIT-Trainings oder Hallenhockey teilzunehmen. Unsere erfahrenen Trainerinnen lassen sich immer wieder neue Übungen einfallen, um alle Mitglieder in Bewegung zu halten und natürlich ins Schwitzen zu bringen - egal ob mit Faszienrolle oder eigenem Körpergewicht.
+Neben dem Nordic-Walking steht unseren Fitness-Begeisterten während der Wintersaison auch die Turnhalle der St.-Martin Grundschule in Deggendorf zur Verfügung. Dabei besteht die Möglichkeit an Gymnastik und HIIT-Trainings teilzunehmen. Unsere erfahrenen Trainerinnen lassen sich immer wieder neue Übungen einfallen, um alle Mitglieder in Bewegung zu halten und natürlich ins Schwitzen zu bringen - egal ob mit Faszienrolle oder eigenem Körpergewicht. Zudem treffen sich wöchentlich eigenständig 10-16 Mitglieder zum gemeinsamen Hallenhockey. Dabei fördert Hockey die Ausdauer, die Athletik, das Ballgefühl und nicht zuletzt die Teamfähigkeit. Und natürlich darf der Spaß dabei auch nicht fehlen.
 
-Der ESV-Deggendorf bietet so seinen Mitglieder ein umfangreiches Sportprogramm ganz ohne Ball und Schläger. So ist für jeden etwas dabei und auch unsere Tennisspieler bleiben fernab des Tennisplatzes fit - egal ob zur Vorbereitung auf die anstehenden Tennissaison oder für die eigene Fitness.
+Der ESV-Deggendorf bietet so seinen Mitglieder ein umfangreiches Sportprogramm ganz ohne Tennisschläger. So ist für jeden etwas dabei und auch unsere Tennisspieler bleiben fernab des Tennisplatzes fit - egal ob zur Vorbereitung auf die anstehenden Tennissaison oder für die eigene Fitness.
 {{% /image-section-2 %}}
 
 **Habt ihr Lust mitzumachen?**
