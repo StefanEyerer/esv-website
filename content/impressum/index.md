@@ -47,3 +47,9 @@ layout: impressum
 &nbsp;Schlehenstr. 11
 &nbsp;94491 Hengersberg
 {{% /impressum-section %}}
+
+{{% impressum-section %}}
+#### Rechte Dritter
+&nbsp;Sollte ein Bild oder ein Text zu beanstanden sein, wenden Sie sich bitte per eMail an: info@esv-deggendorf.de.
+&nbsp;Abmahnungen sind nicht notwendig, da wir jederzeit und ohne Widerstand bereit sind, jegliche berechtigt beanstandeten Interessen zu wahren.
+{{% /impressum-section %}}
