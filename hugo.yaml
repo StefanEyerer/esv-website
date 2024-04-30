@@ -12,7 +12,8 @@ languages:
     languageName: Deutsch
 
 params:
-  logo: images/logo.png
+  imgHome: images/esv_wide.jpg
+  imgLogo: images/logo.png
 
 paginate: 3
 
