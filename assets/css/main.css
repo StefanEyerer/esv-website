@@ -18,6 +18,13 @@
   a:hover {
     @apply text-red-900;
   }
+  hr {
+    @apply h-px;
+    @apply w-full;
+    @apply my-8;
+    @apply border-0;
+    @apply bg-gray-500;
+  }
 }
 
 #main-nav a {
