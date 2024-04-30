@@ -20,7 +20,7 @@ layout: impressum
 
 {{% impressum-section %}}
 #### Kontakt:
-&nbsp;Telefon: 0172 3120826
+&nbsp;Telefon: 0172/3120826
 &nbsp;Email: info@esv-deggendorf.de
 {{% /impressum-section %}}
 
