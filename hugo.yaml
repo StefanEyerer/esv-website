@@ -12,8 +12,12 @@ languages:
     languageName: Deutsch
 
 params:
+  favicon: icons/favicon.png
   imgHome: images/esv_wide.jpg
   imgLogo: images/esv_logo.png
+  iconFacebook: icons/icon-facebook.svg
+  iconInstagram: icons/icon-instagram.svg
+  iconMenu: icons/icon-menu.svg
 
 paginate: 6
 summaryLength: 50

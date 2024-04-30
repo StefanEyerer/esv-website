@@ -62,12 +62,10 @@
 }
 
 #menu-btn[data-menu-open="true"] {
-  background: url("/icon-menu-close.svg");
   @apply fixed;
 }
 
 #menu-btn[data-menu-open="false"] {
-  background: url("/icon-menu-open.svg");
   @apply absolute;
 }
 

@@ -4,9 +4,13 @@
   <a class="underline" href="/impressum">Impressum</a>
   <span>|</span>
   <a href="https://www.facebook.com/EisenbahnerSportvereinDeggendorf/" target="_blank">
-    <img src="/icon-facebook.svg" alt="Facebook" width="25" />
+    {{ with resources.Get .Site.Params.iconFacebook }}
+      <img src="{{ .RelPermalink }}" alt="Facebook" width="25" />
+    {{ end }}
   </a>
   <a href="https://www.instagram.com/esvdeggendorf/" target="_blank">
-    <img src="/icon-instagram.svg" alt="Instagram" width="25" />
+    {{ with resources.Get .Site.Params.iconInstagram }}
+      <img src="{{ .RelPermalink }}" alt="Instagram" width="25" />
+    {{ end }}
   </a>
 </p>

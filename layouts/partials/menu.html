@@ -38,5 +38,5 @@ Renders a menu for the given menu ID.
       {{- end }}
     </ul>
   </nav>
-  <button id="menu-btn" data-menu-open="false"></button>
+  <button id="menu-btn" data-menu-open="false" style="background: url('{{ (resources.Get $page.Site.Params.iconMenu).RelPermalink }}')"></button>
 {{- end }}
