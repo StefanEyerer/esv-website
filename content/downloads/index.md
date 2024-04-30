@@ -19,12 +19,6 @@ Beitragsordnung des ESV Deggendorf
 
 <hr />
 
-<a href="https://cloud.esv-deggendorf.de/public/download-shares/A0MHQp7q1KzXza3Vp27FB5SVVTKX8SER" target="_blank">
-Geschäftsordnung des ESV Deggendorf
-</a>
-
-<hr />
-
 <a href="https://cloud.esv-deggendorf.de/public/download-shares/cG65GIjrpVBbFkjwJW7dyhDqvUeeD8ns" target="_blank">
 Mitgliedsantrag des ESV Deggendorf
 </a>
