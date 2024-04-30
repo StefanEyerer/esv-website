@@ -3,24 +3,47 @@ title: Jugend
 layout: jugend
 ---
 
-{{% image-section-2 imgSrc="images/jugend/jugend01.jpg" imgAlt="Jugend" imgWidth="400" %}}
-Bereits seit Beginn des Tennis-Spielbetriebes beim ESV Deggendorf wird auch die Sportjugend immer wieder intensiv gefördert. "Es rührt sich laufend etwas" im Nachwuchsbereich. Ein Verein ohne Nachwuchsarbeit hat quasi keine Zukunft.
+### Die Zukunft des Tennis liegt in unseren Händen: Die Jugendabteilung des ESV Deggendorf
 
-Was am Anfang als zartes Pflänzchen begann, hat sich im Laufe der Jahre zu einer "stattlichen Blume" entwickelt und mittlerweile haben wir alle Altersgruppen im Nachwuchsbereich mit Mannschaften besetzt. Unsere ganz kleinen führen wir in einer "Zwergerlgruppe" bereits im Alter von etwa vier Jahren spielerisch an den Tennissport heran. Vorrangig bei der Jugendarbeit des ESV war und ist es, nicht nur nach Topleistungen zu streben, sondern den Kindern und Jugendlichen die Möglichkeit zu bieten, sich sportlich zu betätigen und sich dabei aber auch im sozialen Verhalten zu üben. Mit über 100 Kindern und Jugendlichen ist dem Verein deshalb für die Zukunft nicht bange.
+Der ESV Deggendorf hat sich nicht nur als bedeutender Name im lokalen Tennisgeschehen etabliert, sondern auch als ein Verein, der die Zukunft des Sports aktiv gestaltet. Insbesondere unsere Jugendabteilung hat in den letzten Jahren stetig an Bedeutung und Zulauf gewonnen. Wir sind stolz darauf, eine lebendige Gemeinschaft zu sein, die jungen Menschen die Möglichkeit bietet, nicht nur sportlich aktiv zu sein, sondern auch Teil eines engagierten Vereinslebens zu werden.
+
+{{% image-section-2 imgSrc="images/jugend/jugend01.jpg" imgAlt="Jugend" imgWidth="450" %}}
+Ein wesentlicher Bestandteil unserer Jugendarbeit ist das professionelle Training durch zertifizierte Trainer aus dem eigenen Verein sowie der Tennisschule Golas & Raster. Diese bieten maßgeschneiderte Gruppentrainings für alle Altersstufen und Leistungslevels an. Doch nicht nur die erwachsenen Trainer prägen unsere Jugendabteilung – auch erfahrene Jugendliche aus unseren eigenen Reihen unterstützen das Trainerteam und fungieren als Vorbilder und Mentoren für ihre jüngeren Vereinskollegen.
+
+Die Grundpfeiler unserer Jugendabteilung sind klar definiert: Nachwuchsförderung und vielfältige Angebote für unsere jungen Mitglieder. Bereits ab einem Alter von etwa vier Jahren heißen wir die Kleinsten herzlich willkommen und führen sie behutsam an den Tennissport heran. Unser Fokus liegt dabei nicht nur auf der reinen sportlichen Betätigung, sondern auch auf der Förderung sozialer Kompetenzen und Teamgeist.
 {{% /image-section-2 %}}
 
-Unser Dank gilt in diesem Zusammenhang dem Jugendleiter Matthias Hanauer, der mit Unterstützung mehrerer ehrenamtlicher Helfer die Kinder- und Jugendarbeit im ESV Deggendorf betreibt.
+{{% image-section-1 imgSrc="images/jugend/jugend02.jpg" imgAlt="Jugend" imgWidth="450" %}}
+Neben dem regulären Trainingsbetrieb bieten wir unseren Mitgliedern ein breites Spektrum an zusätzlichen Aktivitäten. Von mehreren Trainingstagen über das Jahr verteilt bis hin zu festlichen Feiern wie der Weihnachts- oder Nikolausfeier ist für Abwechslung gesorgt. Besondere Highlights sind auch der Besuch der Bundesligamannschaft des TC Großhesselohe und die Saisonabschlussfeier, bei der Erfolge gefeiert und Erinnerungen geteilt werden. Doch auch abseits des Platzes ist für Unterhaltung gesorgt – sei es beim Brettspielnachmittag oder während unserer Sommerferien-Trainingslager.
 
-**Aber auch die Geselligkeit kommt nicht zu kurz:**
-So findet z.B. jährlich ein "Jugendwochenende" statt mit:
+Ein weiteres wichtiges Anliegen ist es uns, den Tennissport für alle Kinder zugänglich zu machen, unabhängig davon, ob ihre Eltern selbst Mitglieder im Verein sind oder nicht. Bei uns hat jedes Kind die Möglichkeit, das Tennisspielen von Grund auf zu erlernen und sich in einer unterstützenden und motivierenden Umgebung zu entfalten. Werde Teil unserer Tennisfamilie beim ESV Deggendorf und entdecke die Faszination dieses großartigen Sports!
+{{% /image-section-1 %}}
 
-* &#x2022;&nbsp;&nbsp; Übernachtung auf dem Vereinsgelände
-* &#x2022;&nbsp;&nbsp; Möglichkeit zur Teilnahme an Übungs-Trainerstunden
-* &#x2022;&nbsp;&nbsp; Turniere für die Größeren
-* &#x2022;&nbsp;&nbsp; "Zwergerlolympiade" für die Kleineren
-* &#x2022;&nbsp;&nbsp; Gemeinschaftlich zubereitetes Essen und Trinken einfach Spaß bei Sport und Spiel in der Gruppe
+### Unser Jugendteam
 
-Es ist generell für jedes Kind möglich, beim ESV Deggendorf das Tennis spielen zu erlernen, auch wenn die Eltern selbst nicht Mitglied beim ESV Deggendorf sind.
+{{% jugend-section %}}
+
+{{% image-card imgSrc="/images/test.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
+**Matthias Hanauer**
+**Jugendleiter**
+{{% /image-card %}}
+
+{{% image-card imgSrc="/images/test.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
+**Susanne Hanauer**
+**Betreuerin 13-18 Jahre**
+{{% /image-card %}}
+
+{{% image-card imgSrc="/images/test.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
+**Doris Edelmann**
+**Betreuerin 10-12 Jahre**
+{{% /image-card %}}
+
+{{% image-card imgSrc="/images/test.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
+**Dany Fischer**
+**Betreuerin 4-9 Jahre**
+{{% /image-card %}}
+
+{{% /jugend-section %}}
 
 **Habt ihr Lust mitzumachen?**
 Dann meldet Euch einfach kurz per Mail an info@esv-deggendorf.de oder telefonisch bei unserem Jugendleiter Matthias Hanauer (Tel: 0163/7324175)

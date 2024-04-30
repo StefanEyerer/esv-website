@@ -11,7 +11,7 @@ Renders a menu for the given menu ID.
 {{- $menuID := .menuID }}
 
 {{- with index site.Menus $menuID }}
-  <nav id="main-nav" class="uppercase text-lg" data-menu-open="false">
+  <nav id="main-nav" class="text-lg" data-menu-open="false">
     <ul class="flex flex-col lg:flex-row gap-0 lg:gap-4">
       {{- range . }}
         {{- $URL := .URL }}
