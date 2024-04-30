@@ -1,0 +1,8 @@
+<div class="flex flex-col lg:flex-row items-center justify-center gap-8 py-4">
+  <div class="flex flex-col basis-3/5 gap-2">
+    {{ .Inner }}
+  </div>
+  <div class="flex flex-col basis-2/5 items-center justify-center">
+    <img src="{{ (resources.Get .Params.imgSrc).RelPermalink }}" alt="{{ .Params.imgAlt }}" width="{{ .Params.imgWidth }}" />
+  </div>
+</div>
