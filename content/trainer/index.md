@@ -6,7 +6,7 @@ layout: trainer
 ## Hauptamtliche Tennistrainer:innen
 {{% trainer-section %}}
 {{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
-**Antal David "Toni"**
+**Antal "Toni" David**
 {{% /image-card %}}
 {{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Josef Marik**
@@ -18,16 +18,16 @@ layout: trainer
 
 ## Ausgebildete Übungsleiter:innen & Tennistrainer:innen
 {{% trainer-section %}}
-{{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
+{{% image-card imgSrc="images/trainer/trainer04.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Josef Peschl**
 {{% /image-card %}}
-{{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
+{{% image-card imgSrc="images/trainer/trainer05.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Michael Peschl**
 {{% /image-card %}}
-{{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
+{{% image-card imgSrc="images/trainer/trainer06.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Sebastian Baumann**
 {{% /image-card %}}
-{{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
+{{% image-card imgSrc="images/trainer/trainer07.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Alex Schirmer**
 {{% /image-card %}}
 {{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
