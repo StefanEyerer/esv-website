@@ -2,8 +2,8 @@
   {{- if resources.Get .Params.imgSrc }}
     <img src="{{ (resources.Get .Params.imgSrc).RelPermalink }}" alt="{{ .Params.imgAlt }}" width="{{ .Params.imgWidth }}" />
   {{- else }}
-    <div class="flex items-center justify-center h-60 w-80 lg:w-96 bg-zinc-800 text-zinc-200 opacity-80">
-      <h1>{{ .Params.imgAlt }}</h1>
+    <div class="flex items-center justify-center bg-zinc-800 text-zinc-200 opacity-80 w-fit h-fit">
+      <img alt="{{ .Params.imgAlt }}" width="{{ .Params.imgWidth }}" height="{{ .Params.imgHeight }}" class="text-center text-4xl" />
     </div>
   {{- end }}
   {{ .Inner }}
