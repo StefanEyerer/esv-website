@@ -6,7 +6,7 @@ layout: trainer
 ## Hauptamtliche Tennistrainer:innen
 {{% trainer-section %}}
 {{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
-**Antal "Toni" David**
+**David "Toni" Antal**
 {{% /image-card %}}
 {{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Josef Marik**
