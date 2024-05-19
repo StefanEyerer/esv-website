@@ -37,13 +37,13 @@ layout: trainer
 
 ## Trainerassistent:innen
 {{% trainer-section %}}
-{{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
+{{% image-card imgSrc="images/trainer/trainer09.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Simon Hanauer**
 {{% /image-card %}}
 {{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Philipp Rixinger**
 {{% /image-card %}}
-{{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
+{{% image-card imgSrc="images/trainer/trainer11.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Serena Dellnitz**
 {{% /image-card %}}
 {{% /trainer-section %}}
