@@ -19,6 +19,14 @@ layout: mannschaften
 **Bambini 12 (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=1963240" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Bambina 12" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/bambina12.jpg" imgAlt="Bambina 12" imgWidth="500" %}}
 **Bambina 12 (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=1963302" target="_blank">>>BTV<<</a>
+{{% /image-card %}}
+
+{{% image-card imgSrc="/images/mannschaften/kleinfeldU10.jpg" imgAlt="Kleinfeld U10" imgWidth="500" %}}
+**Kleinfeld U10**
+{{% /image-card %}}
+
+{{% image-card imgSrc="/images/mannschaften/kleinfeldU8.jpg" imgAlt="Kleinfeld U8" imgWidth="500" %}}
+**Kleinfeld U8**
 {{% /image-card %}}
