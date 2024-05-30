@@ -1,30 +1,32 @@
 {{ define "main" }}
   <div class="flex flex-col items-center justify-center gap-8">
-    <div class="flex flex-col items-center justify-center gap-4 w-4/5">
-      {{ .Content }}
-    </div>
     <div class="flex flex-col items-center justify-center">
       {{ with resources.Get .Site.Params.imgHome }}
         <img src="{{ .RelPermalink }}" alt="ESV-Heim" width="1200">
       {{ end }}
     </div>
-    <h2>Aktuelle Beiträge vom ESV Deggendorf</h2>
-    <div class="flex flex-col lg:flex-row flex-wrap items-stretch justify-center gap-4 lg:gap-8 mb-4 min-h-fit">
-      {{ $section := where .Site.RegularPages "Section" "in" "news" }}
-      {{ range (first 3 $section) }}
-        <div class="basis-96 flex flex-col p-6 bg-zinc-100">
-          <div class="flex flex-col mb-4">
-            <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
-            {{ $dateMachine := .Date | time.Format "2006-01-02" }}
-            {{ $dateHuman := .Date | time.Format ":date_long" }}
-            <time datetime="{{ $dateMachine }}">
-              <i class="text-sm">{{ $dateHuman }}</i>
-            </time>
-          </div>
-          {{ .Summary }}
-          <a href="{{ .RelPermalink }}">[...]</a>
-        </div>  
-      {{ end }}
+    <div class="flex flex-col items-center justify-center gap-4 w-4/5">
+      {{ .Content }}
+    </div>
+    <div class="flex flex-col items-center justify-center gap-4 w-full">
+      <h3>Aktuelle Beiträge vom ESV Deggendorf</h3>
+      <div class="flex flex-col lg:flex-row flex-wrap items-stretch justify-center gap-4 lg:gap-8 mb-4 min-h-fit">
+        {{ $section := where .Site.RegularPages "Section" "in" "news" }}
+        {{ range (first 3 $section) }}
+          <div class="basis-96 flex flex-col p-6 bg-zinc-100">
+            <div class="flex flex-col mb-4">
+              <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+              {{ $dateMachine := .Date | time.Format "2006-01-02" }}
+              {{ $dateHuman := .Date | time.Format ":date_long" }}
+              <time datetime="{{ $dateMachine }}">
+                <i class="text-sm">{{ $dateHuman }}</i>
+              </time>
+            </div>
+            {{ .Summary }}
+            <a href="{{ .RelPermalink }}">[...]</a>
+          </div>  
+        {{ end }}
+      </div>
     </div>
   </div>
 {{ end }}
