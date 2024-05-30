@@ -6,7 +6,7 @@ layout: impressum
 ## Impressum
 
 {{% impressum-section %}}
-#### Angaben gemäß § 5 TMG:
+#### Anschrift:
 &nbsp;Eisenbahner Sportverein Deggendorf e. V.
 &nbsp;Neusiedler Straße 17
 &nbsp;94469 Deggendorf
@@ -50,6 +50,6 @@ layout: impressum
 
 {{% impressum-section %}}
 #### Rechte Dritter
-&nbsp;Sollte ein Bild oder ein Text zu beanstanden sein, wenden Sie sich bitte per eMail an: info@esv-deggendorf.de.
+&nbsp;Sollte ein Bild oder ein Text zu beanstanden sein, wenden Sie sich bitte per Email an: info@esv-deggendorf.de.
 &nbsp;Abmahnungen sind nicht notwendig, da wir jederzeit und ohne Widerstand bereit sind, jegliche berechtigt beanstandeten Interessen zu wahren.
 {{% /impressum-section %}}
