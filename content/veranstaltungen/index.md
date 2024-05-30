@@ -35,6 +35,6 @@ layout: veranstaltungen
 {{% veranstaltungen-section eventDate="27.04.24 (13-15 Uhr)" eventTitle="Trainingstag U15 + U18" border="true" %}}
 {{% veranstaltungen-section eventDate="18.05.24 (13-15 Uhr)" eventTitle="Spaß- & Spieltag" border="true" %}}
 {{% veranstaltungen-section eventDate="Ende Juli 2024 (ganztags)" eventTitle="Ausflug nach Großhesselohe (Tennis Bundesliga) - hier dürfen unsere Kleinen Ballkinder sein" border="true" %}}
-{{% veranstaltungen-section eventDate="05.08.24 - 08.08.24 (je 09-14 Uhr)" eventTitle="Feriencamp für ESV-Kinder & Friends (5 - 14 Jahre)" border="true" %}}
+{{% veranstaltungen-section eventDate="05.08.24 - 08.08.24 (je 09-14 Uhr)" eventTitle="Feriencamp für ESV-Kinder & Friends (6 - 15 Jahre)" eventLink="https://cloud.esv-deggendorf.de/public/download-shares/wbKG13LvR4Mgq4GJ3xVbKDLGH855MARI" border="true" %}}
 {{% veranstaltungen-section eventDate="22.09.24 (10-13 Uhr)" eventTitle="Saisonabschluss mit Pizza" border="true" %}}
 {{% veranstaltungen-section eventDate="Herbst 2024" eventTitle="Jugendtreff" %}}
