@@ -58,7 +58,7 @@ Spartenleiterin Fitness
 Bauausschuss
 {{% /image-card %}}
 
-{{% image-card imgSrc="/images/test.jpg" imgAlt="Bauausschuss" imgWidth="250" %}}
+{{% image-card imgSrc="/images/vorstandschaft/vorstandschaft12.jpg" imgAlt="Bauausschuss" imgWidth="250" %}}
 **Anton Schied**
 Bauausschuss
 {{% /image-card %}}
