@@ -3,7 +3,7 @@ title: Mannschaften Erwachsene
 layout: mannschaften
 ---
 
-{{% image-card imgSrc="" imgAlt="Herren" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/herren.jpg" imgAlt="Herren" imgWidth="500" %}}
 **Herren (Südliga 1)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=1962474" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
@@ -15,7 +15,7 @@ layout: mannschaften
 **Herren III (Südliga 5)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=1962564" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Damen" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/damen.jpg" imgAlt="Damen" imgWidth="500" %}}
 **Damen (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=1962661" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
@@ -27,6 +27,6 @@ layout: mannschaften
 **Herren 40 (Südliga 1)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=1962755" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Herren 50" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/herren50.jpg" imgAlt="Herren 50" imgWidth="500" %}}
 **Herren 50 (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=1962837" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
