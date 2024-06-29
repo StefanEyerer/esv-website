@@ -5,7 +5,7 @@ layout: trainer
 
 ## Hauptamtliche Tennistrainer:innen
 {{% trainer-section %}}
-{{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
+{{% image-card imgSrc="images/trainer/trainer01.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **David "Toni" Antal**
 {{% /image-card %}}
 {{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
