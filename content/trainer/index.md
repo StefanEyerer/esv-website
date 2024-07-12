@@ -8,7 +8,7 @@ layout: trainer
 {{% image-card imgSrc="images/trainer/trainer01.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **David "Toni" Antal**
 {{% /image-card %}}
-{{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
+{{% image-card imgSrc="images/trainer/trainer02.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Josef Marik**
 {{% /image-card %}}
 {{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
