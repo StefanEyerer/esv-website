@@ -30,7 +30,7 @@ layout: trainer
 {{% image-card imgSrc="images/trainer/trainer07.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Alex Schirmer**
 {{% /image-card %}}
-{{% image-card imgSrc="images/test.jpg" imgAlt="Trainer" imgWidth="250" %}}
+{{% image-card imgSrc="images/trainer/trainer08.jpg" imgAlt="Trainer" imgWidth="250" %}}
 **Viktoria Kuchynka**
 {{% /image-card %}}
 {{% /trainer-section %}}
