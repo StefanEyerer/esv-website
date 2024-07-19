@@ -43,7 +43,7 @@ Sportwart
 Jugendwart
 {{% /image-card %}}
 
-{{% image-card imgSrc="/images/test.jpg" imgAlt="Spartenleiter Faustball" imgWidth="250" %}}
+{{% image-card imgSrc="/images/vorstandschaft/vorstandschaft09.jpg" imgAlt="Spartenleiter Faustball" imgWidth="250" %}}
 **Claus Leitl**
 Spartenleiter Faustball
 {{% /image-card %}}
