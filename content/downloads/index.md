@@ -7,6 +7,12 @@ layout: downloads
 
 <hr />
 
+<a href="https://cloud.esv-deggendorf.de/public/download-shares/lbmEt3HuXVdxny16VZ41vLSFnSerp5ZG" target="_blank">
+Ansprechpartner beim ESV Deggendorf
+</a>
+
+<hr />
+
 <a href="https://cloud.esv-deggendorf.de/public/download-shares/CWC6lehpxCFCz6uGx773ZO5YnHiRfPNr" target="_blank">
 Beitragsordnung des ESV Deggendorf
 </a>
@@ -39,4 +45,16 @@ Satzung des ESV Deggendorf
 
 <a href="https://cloud.esv-deggendorf.de/public/download-shares/3E96LavAxpw4COS2gx9ipVhTRo0fM6pb" target="_blank">
 Spiel- und Platzordnung des ESV Deggendorf
+</a>
+
+<hr />
+
+<a href="https://cloud.esv-deggendorf.de/public/download-shares/K2onXfEFxeXAdaXxf9B4ELa0S31CXtKy" target="_blank">
+Leitfaden - Courtbooking
+</a>
+
+<hr />
+
+<a href="https://cloud.esv-deggendorf.de/public/download-shares/DOcSGaTrf18Z58UFEC8xN2tPTp5rEsKT" target="_blank">
+Leitfaden - Getränkeapp
 </a>
