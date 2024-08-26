@@ -75,6 +75,9 @@ menus:
     - name: "Downloads"
       pageRef: "/downloads"
       weight: 60
+    - name: "Unterstützer"
+      pageRef: "/unterstützer"
+      weight: 70
 
 disableKinds:
   - taxonomy

@@ -1,0 +1,5 @@
+<a href="{{ .Params.link }}" target="_blank">
+  <div class="flex flex-col align-center justify-center bg-zinc-100 h-56 w-56 p-2 shadow-md">
+    <img src="{{ (resources.Get .Params.imgSrc).RelPermalink }}" alt="{{ .Params.imgAlt }}" />
+  </div>
+</a>
