@@ -75,8 +75,8 @@ menus:
     - name: "Downloads"
       pageRef: "/downloads"
       weight: 60
-    - name: "Unterstützer"
-      pageRef: "/unterstützer"
+    - name: "Lok-Partner"
+      pageRef: "/partner"
       weight: 70
 
 disableKinds:
