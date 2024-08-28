@@ -6,7 +6,7 @@ layout: partner
 ## Vielen Dank an unsere zahlreichen ESV Lok-Partner!
 
 {{% logo-section %}}
-{{% logo-card imgSrc="" imgAlt="Rile Group" link="https://www.rile-group.com/" %}}
+{{% logo-card imgSrc="/images/partner/logo_rile.png" imgAlt="Rile Group" link="https://www.rile-group.com/" %}}
 {{% logo-card imgSrc="/images/partner/logo_zaglauer.png" imgAlt="Zaglauer Bau GmbH" link="https://zaglauer-bau.de/" %}}
 {{% logo-card imgSrc="/images/partner/logo_asp.png" imgAlt="ASP Steuerberatergesellschaft" link="https://www.schrattenberger-partner.de/" %}}
 {{% logo-card imgSrc="/images/partner/logo_kouros.png" imgAlt="Restaurant Kouros" link="https://restaurantkouros.de/" %}}
