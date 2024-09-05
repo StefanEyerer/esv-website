@@ -12,7 +12,7 @@
       <h3>Aktuelle Beiträge vom ESV Deggendorf</h3>
       <div class="flex flex-col lg:flex-row flex-wrap items-stretch justify-center gap-4 lg:gap-8 mb-4 min-h-fit">
         {{ $section := where .Site.RegularPages "Section" "in" "news" }}
-        {{ range (first 3 $section) }}
+        {{ range $section | first 3 }}
           <div class="basis-96 flex flex-col p-6 bg-zinc-100">
             {{- if resources.Get .Params.preview }}
               <img class="pb-2" src="{{ (resources.Get .Params.preview).RelPermalink }}" alt="Preview" />
