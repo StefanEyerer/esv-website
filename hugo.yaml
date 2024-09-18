@@ -28,7 +28,7 @@ menus:
       pageRef: "/"
       weight: 1
     - name: "News"
-      pageRef: "/news"
+      pageRef: "/posts"
       weight: 10
     - name: "Verein"
       weight: 20
