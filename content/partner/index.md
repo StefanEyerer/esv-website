@@ -25,4 +25,6 @@ layout: partner
 {{% logo-card imgSrc="/images/partner/logo_freise.png" imgAlt="Freise Elektrotechnik" link="https://www.freise.net/" %}}
 {{% logo-card imgSrc="/images/partner/logo_wenzel.png" imgAlt="Architektur Wenzel" link="https://architektur-wenzel.de/" %}}
 {{% logo-card imgSrc="/images/partner/logo_apotheke-bahnhof.png" imgAlt="Bahnhof Apotheke" link="https://www.apotheke-absolon.de/" %}}
+{{% logo-card imgSrc="/images/partner/logo_seka.png" imgAlt="Seka Immobilien" link="https://seka-immobilien.de/" %}}
+{{% logo-card imgSrc="/images/partner/logo_aw-sportbedarf.png" imgAlt="AW Sportbedarf" link="https://www.aw-sportbedarf.de/" %}}
 {{% /logo-section %}}
