@@ -13,7 +13,7 @@ Ansprechpartner beim ESV Deggendorf
 
 <hr />
 
-<a href="https://cloud.esv-deggendorf.de/public/download-shares/CWC6lehpxCFCz6uGx773ZO5YnHiRfPNr" target="_blank">
+<a href="https://cloud.esv-deggendorf.de/public/download-shares/hRbM8Unels24bwZd6aVEHjS8E0c3y9jR" target="_blank">
 Beitragsordnung des ESV Deggendorf
 </a>
 
