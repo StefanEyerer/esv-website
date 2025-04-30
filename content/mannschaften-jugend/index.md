@@ -3,7 +3,7 @@ title: Mannschaften Jugend
 layout: mannschaften
 ---
 
-{{% image-card imgSrc="" imgAlt="Junioren 18" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/junioren18.jpg" imgAlt="Junioren 18" imgWidth="500" %}}
 **Junioren 18 (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078876" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
