@@ -1,5 +1,6 @@
 ---
 title: Jugend
+type: page
 layout: jugend
 ---
 

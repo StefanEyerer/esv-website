@@ -1,5 +1,6 @@
 ---
 title: Trainer:innen
+type: page
 layout: trainer
 ---
 

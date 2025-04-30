@@ -1,5 +1,6 @@
 ---
 title: Mannschaften Jugend
+type: page
 layout: mannschaften
 ---
 

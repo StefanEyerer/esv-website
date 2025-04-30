@@ -1,5 +1,6 @@
 ---
 title: Veranstaltungen
+type: page
 layout: veranstaltungen
 ---
 

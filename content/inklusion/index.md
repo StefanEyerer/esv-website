@@ -1,5 +1,6 @@
 ---
 title: Inklusion
+type: page
 layout: inklusion
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Fitness
+type: page
 layout: fitness
 ---
 

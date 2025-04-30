@@ -1,5 +1,6 @@
 ---
 title: Impressum
+type: page
 layout: impressum
 ---
 

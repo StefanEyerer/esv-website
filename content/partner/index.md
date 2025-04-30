@@ -1,5 +1,6 @@
 ---
 title: Lok-Partner
+type: page
 layout: partner
 ---
 

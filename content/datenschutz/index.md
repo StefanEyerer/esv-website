@@ -1,5 +1,6 @@
 ---
 title: Datenschutz
+type: page
 layout: datenschutz
 ---
 

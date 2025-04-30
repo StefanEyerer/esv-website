@@ -1,5 +1,6 @@
 ---
 title: Faustball
+type: page
 layout: faustball
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Mannschaften Erwachsene
+type: page
 layout: mannschaften
 ---
 

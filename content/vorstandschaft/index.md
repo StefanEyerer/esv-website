@@ -1,5 +1,6 @@
 ---
 title: Vorstandschaft
+type: page
 layout: vorstandschaft
 ---
 

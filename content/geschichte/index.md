@@ -1,5 +1,6 @@
 ---
 title: Geschichte
+type: page
 layout: geschichte
 ---
 
