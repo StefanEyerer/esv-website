@@ -4,7 +4,7 @@ type: page
 layout: mannschaften
 ---
 
-{{% image-card imgSrc="/images/mannschaften/junioren18.jpg" imgAlt="Junioren 18" imgWidth="500" %}}
+{{% image-card imgSrc="/images/mannschaften/junioren-18.jpg" imgAlt="Junioren 18" imgWidth="500" %}}
 **Junioren 18 (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078876" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
@@ -20,8 +20,12 @@ layout: mannschaften
 **Knaben 15 II (Südliga 5)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078997" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Bambini 12" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/bambini-12.jpg" imgAlt="Bambini 12" imgWidth="500" %}}
 **Bambini 12 (Südliga 5)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2079175" target="_blank">>>BTV<<</a>
+{{% /image-card %}}
+
+{{% image-card imgSrc="/images/mannschaften/midcourt-u10.jpg" imgAlt="Midcourt U10" imgWidth="500" %}}
+**Midcourt U10 (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2079250" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
 <!--
