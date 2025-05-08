@@ -8,17 +8,6 @@
     <div class="flex flex-col items-center justify-center gap-4 w-4/5">
       {{ .Content }}
     </div>
-    <!-- START: Nachruf Peter Haidn -->
-    <h3>Der ESV trauert um seinen langjährigen Platzwart Peter Haidn</h3>
-    <div class="flex flex-col lg:flex-row items-center justify-center gap-4 w-4/5">
-      {{ with resources.Get "images/haidn_peter_bild.jpg" }}
-        <img src="{{ .RelPermalink }}" alt="Peter Haidn" width="500" />
-      {{ end }}
-      {{ with resources.Get "images/haidn_peter_nachruf.jpg" }}
-        <img src="{{ .RelPermalink }}" alt="Peter Haidn Nachruf" width="400" />
-      {{ end }}
-    </div>
-    <!-- END: Nachruf Peter Haidn -->
     <div class="flex flex-col items-center justify-center gap-4 w-full">
       <h3>Aktuelle Beiträge vom ESV Deggendorf</h3>
       <div class="flex flex-col lg:flex-row flex-wrap items-stretch justify-center gap-4 lg:gap-8 mb-4 min-h-fit">
