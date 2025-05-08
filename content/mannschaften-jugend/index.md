@@ -16,7 +16,7 @@ layout: mannschaften
 **Knaben 15 (Südliga 5)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078999" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Knaben 15 II" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/knaben-15-2.jpg" imgAlt="Knaben 15 II" imgWidth="500" %}}
 **Knaben 15 II (Südliga 5)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078997" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
@@ -28,12 +28,10 @@ layout: mannschaften
 **Midcourt U10 (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2079250" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-<!--
 {{% image-card imgSrc="" imgAlt="Kleinfeld U10" imgWidth="500" imgHeight="375" %}}
 **Kleinfeld U10**
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Kleinfeld U8" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/kleinfeld-u8.jpg" imgAlt="Kleinfeld U8" imgWidth="500" %}}
 **Kleinfeld U8**
 {{% /image-card %}}
--->
