@@ -35,6 +35,6 @@ layout: veranstaltungen
 {{% veranstaltungen-section eventDate="21.06.25 (14-17 Uhr)" eventTitle="Eltern-Kind-Turnier (im Anschluss Grillen)" border="true" %}}
 {{% veranstaltungen-section eventDate="26./27.07.25" eventTitle="Finalrunde Kleinfeld" border="true" %}}
 {{% veranstaltungen-section eventDate="03.08.25 (ganztags)" eventTitle="Ausflug nach Großhesselohe (Tennis Bundesliga) - hier dürfen unsere Kleinen Ballkinder sein" border="true" %}}
-{{% veranstaltungen-section eventDate="11.08.25 - 14.08.25 (je 09-14 Uhr)" eventTitle="Feriencamp für ESV-Kinder & Friends (5 - 15 Jahre)" border="true" %}}
+{{% veranstaltungen-section eventDate="11.08.25 - 14.08.25 (je 09-14 Uhr)" eventTitle="Feriencamp für ESV-Kinder & Friends (5 - 15 Jahre)" eventLink="https://cloud.esv-deggendorf.de/public/download-shares/isQQ9Re8Zr9bLFwsRVPwzX7u3SZ1fD35" border="true" %}}
 {{% veranstaltungen-section eventDate="20.09.25" eventTitle="Tag des ESV mit Spieltag für Kinder & Jugendliche" border="true" %}}
 {{% veranstaltungen-section eventDate="28.11.25" eventTitle="Nikolausfeier" %}}
