@@ -12,7 +12,7 @@ layout: mannschaften
 **Junioren 18 II (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078912" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Knaben 15" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/knaben-15-1.jpg" imgAlt="Knaben 15" imgWidth="500" %}}
 **Knaben 15 (Südliga 5)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078999" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 

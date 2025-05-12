@@ -8,11 +8,11 @@ layout: mannschaften
 **Herren (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078402" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Herren II" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/herren-2-3.jpg" imgAlt="Herren II" imgWidth="500" %}}
 **Herren II (Südliga 3)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078428" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Herren III" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/herren-2-3.jpg" imgAlt="Herren III" imgWidth="500" %}}
 **Herren III (Südliga 5)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078490" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
