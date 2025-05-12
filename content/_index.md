@@ -10,7 +10,7 @@ title: Home
 ### An unsere Mitglieder: Ab sofort sind unsere Tennisplätze offiziell eröffnet!
 {{% /info-section %}} -->
 
-{{% image-only-section %}}
+<!-- {{% image-only-section %}}
 {{% image imgSrc="images/begegnungen/kw19_adults.png" imgAlt="Begegnungen Erwachsene" imgWidth="400" %}}
 {{% image imgSrc="images/begegnungen/kw19_kids.png" imgAlt="Begegnungen Kids" imgWidth="400" %}}
-{{% /image-only-section %}}
+{{% /image-only-section %}} -->
