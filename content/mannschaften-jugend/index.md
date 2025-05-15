@@ -28,10 +28,18 @@ layout: mannschaften
 **Midcourt U10 (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2079250" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Kleinfeld U10" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/kleinfeld-u10.jpg" imgAlt="Kleinfeld U10" imgWidth="500" %}}
 **Kleinfeld U10**
 {{% /image-card %}}
 
-{{% image-card imgSrc="/images/mannschaften/kleinfeld-u8.jpg" imgAlt="Kleinfeld U8" imgWidth="500" %}}
-**Kleinfeld U8**
+{{% image-card imgSrc="/images/mannschaften/kleinfeld-u8-1.jpg" imgAlt="Kleinfeld U8-1" imgWidth="500" %}}
+**Kleinfeld U8-1**
+{{% /image-card %}}
+
+{{% image-card imgSrc="/images/mannschaften/kleinfeld-u8-2.jpg" imgAlt="Kleinfeld U8-2" imgWidth="500" %}}
+**Kleinfeld U8-2**
+{{% /image-card %}}
+
+{{% image-card imgSrc="/images/mannschaften/kleinfeld-u8-3.jpg" imgAlt="Kleinfeld U8-3" imgWidth="500" %}}
+**Kleinfeld U8-3**
 {{% /image-card %}}
