@@ -4,8 +4,8 @@ type: page
 layout: mannschaften
 ---
 
-{{% image-card imgSrc="" imgAlt="Herren" imgWidth="500" imgHeight="375" %}}
-**Herren (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078402" target="_blank">>>BTV<<</a>
+{{% image-card imgSrc="" imgAlt="Herren I" imgWidth="500" imgHeight="375" %}}
+**Herren I (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078402" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
 {{% image-card imgSrc="/images/mannschaften/herren-2-3.jpg" imgAlt="Herren II" imgWidth="500" %}}
@@ -16,8 +16,8 @@ layout: mannschaften
 **Herren III (Südliga 5)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078490" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Damen" imgWidth="500" imgHeight="375" %}}
-**Damen (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078579" target="_blank">>>BTV<<</a>
+{{% image-card imgSrc="" imgAlt="Damen I" imgWidth="500" imgHeight="375" %}}
+**Damen I (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078579" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
 {{% image-card imgSrc="" imgAlt="Damen II" imgWidth="500" imgHeight="375" %}}
