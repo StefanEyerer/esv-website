@@ -20,11 +20,11 @@ layout: mannschaften
 **Damen I (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078579" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Damen II" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/damen-2.jpg" imgAlt="Damen II" imgWidth="500" %}}
 **Damen II (Südliga 5)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078609" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Herren 30" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/herren-30.jpg" imgAlt="Herren 30" imgWidth="500" %}}
 **Herren 30 (Südliga 1)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078639" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
