@@ -4,7 +4,7 @@ type: page
 layout: mannschaften
 ---
 
-{{% image-card imgSrc="" imgAlt="Herren I" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/herren-1.jpg" imgAlt="Herren I" imgWidth="500" %}}
 **Herren I (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078402" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
