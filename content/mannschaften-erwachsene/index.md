@@ -16,7 +16,7 @@ layout: mannschaften
 **Herren III (Südliga 5)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078490" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Damen I" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/damen-1.jpg" imgAlt="Damen I" imgWidth="500" %}}
 **Damen I (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2078579" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
