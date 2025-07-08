@@ -11,6 +11,6 @@ title: Home
 {{% /info-section %}} -->
 
 {{% image-only-section %}}
-{{% image imgSrc="images/begegnungen/kw27_adults.png" imgAlt="Begegnungen Erwachsene" imgWidth="400" %}}
-{{% image imgSrc="images/begegnungen/kw27_kids.png" imgAlt="Begegnungen Kids" imgWidth="400" %}}
+{{% image imgSrc="images/begegnungen/kw28_adults.png" imgAlt="Begegnungen Erwachsene" imgWidth="400" %}}
+{{% image imgSrc="images/begegnungen/kw28_kids.png" imgAlt="Begegnungen Kids" imgWidth="400" %}}
 {{% /image-only-section %}}
