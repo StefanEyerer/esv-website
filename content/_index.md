@@ -7,7 +7,7 @@ title: Home
 {{% /info-section %}} -->
 
 {{% info-section %}}
-### An unsere Mitglieder: Am 10.10.25 um 18 Uhr findet im Clubheim unsere Jahreshauptversammlung statt! Alle Mitglieder sind herzlich eingeladen!
+### An unsere Mitglieder: Am 18.10.25 um 9 Uhr findet die Einwinterung unserer Plätze und Anlage statt. Um reichliche Beteiligung wird gebeten!
 {{% /info-section %}}
 
 <!-- {{% image-only-section %}}
