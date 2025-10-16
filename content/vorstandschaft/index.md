@@ -68,3 +68,8 @@ Bauausschuss
 **Stefan Eyerer**
 Bauausschuss & IT
 {{% /image-card %}}
+
+{{% image-card imgSrc="/images/vorstandschaft/vorstandschaft14.jpg" imgAlt="Teammanager" imgWidth="250" %}}
+**Michael Peschl**
+Teammanager
+{{% /image-card %}}

@@ -31,22 +31,22 @@ Jugendleiter
 
 {{% image-card imgSrc="/images/jugend/jugendteam02.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
 **Susanne Hanauer**
-Betreuerin 13-18 Jahre
+Betreuerin 16-18 Jahre
 {{% /image-card %}}
 
 {{% image-card imgSrc="/images/jugend/jugendteam03.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
 **Doris Edelmann**
-Betreuerin 10-12 Jahre
+Betreuerin 11-15 Jahre
 {{% /image-card %}}
 
 {{% image-card imgSrc="/images/jugend/jugendteam04.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
 **Dany Fischer**
-Betreuerin 4-9 Jahre
+Betreuerin 8-10 Jahre
 {{% /image-card %}}
 
-{{% image-card imgSrc="/images/jugend/jugendteam05.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
-**Michael Peschl**
-Kleinfeld & Turniere
+{{% image-card imgSrc="/images/test.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
+**Katja Sommerfeld**
+Betreuerin unter 8 Jahre
 {{% /image-card %}}
 
 {{% /jugend-section %}}
@@ -57,4 +57,5 @@ Dann meldet Euch einfach bei den jeweiligen Ansprechpartner:innen:
 * &#x2022;&nbsp;&nbsp; Susanne Hanauer (Tel: 0178/1973724)
 * &#x2022;&nbsp;&nbsp; Doris Edelmann (Tel: 0176/22829055)
 * &#x2022;&nbsp;&nbsp; Dany Fischer (Email: daniela.fischer84@gmx.de)
-* &#x2022;&nbsp;&nbsp; Michael Peschl (Tel: 0160/99036537)
+* &#x2022;&nbsp;&nbsp; Katja Sommerfeld (Tel: 0151/15220800)
+* &#x2022;&nbsp;&nbsp; Michael Peschl (Tel: 0160/99036537) "Betreuer Kleinfeldfreunde"
