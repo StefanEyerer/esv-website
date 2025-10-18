@@ -44,7 +44,7 @@ Betreuerin 11-15 Jahre
 Betreuerin 8-10 Jahre
 {{% /image-card %}}
 
-{{% image-card imgSrc="/images/test.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
+{{% image-card imgSrc="/images/jugend/jugendteam05.jpg" imgAlt="Jugendteam" imgWidth="250" %}}
 **Katja Sommerfeld**
 Betreuerin unter 8 Jahre
 {{% /image-card %}}
@@ -53,9 +53,10 @@ Betreuerin unter 8 Jahre
 
 **Habt ihr Lust mitzumachen?**
 Dann meldet Euch einfach bei den jeweiligen Ansprechpartner:innen:
-* &#x2022;&nbsp;&nbsp; Matthias Hanauer (Tel: 0163/7324175)
-* &#x2022;&nbsp;&nbsp; Susanne Hanauer (Tel: 0178/1973724)
-* &#x2022;&nbsp;&nbsp; Doris Edelmann (Tel: 0176/22829055)
-* &#x2022;&nbsp;&nbsp; Dany Fischer (Email: daniela.fischer84@gmx.de)
-* &#x2022;&nbsp;&nbsp; Katja Sommerfeld (Tel: 0151/15220800)
-* &#x2022;&nbsp;&nbsp; Michael Peschl (Tel: 0160/99036537) "Betreuer Kleinfeldfreunde"
+
+- &#x2022;&nbsp;&nbsp; Matthias Hanauer (Tel: 0163/7324175)
+- &#x2022;&nbsp;&nbsp; Susanne Hanauer (Tel: 0178/1973724)
+- &#x2022;&nbsp;&nbsp; Doris Edelmann (Tel: 0176/22829055)
+- &#x2022;&nbsp;&nbsp; Dany Fischer (Email: daniela.fischer84@gmx.de)
+- &#x2022;&nbsp;&nbsp; Katja Sommerfeld (Tel: 0151/15220800)
+- &#x2022;&nbsp;&nbsp; Michael Peschl (Tel: 0160/99036537) "Betreuer Kleinfeldfreunde"
