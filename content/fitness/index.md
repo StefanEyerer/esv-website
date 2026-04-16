@@ -16,5 +16,7 @@ Neben dem Nordic-Walking steht unseren Fitness-Begeisterten während der Winters
 Der ESV-Deggendorf bietet so seinen Mitglieder ein umfangreiches Sportprogramm ganz ohne Tennisschläger. So ist für jeden etwas dabei und auch unsere Tennisspieler bleiben fernab des Tennisplatzes fit - egal ob zur Vorbereitung auf die anstehenden Tennissaison oder für die eigene Fitness.
 {{% /image-section-2 %}}
 
+Seit der Sommersaison 2026 wird von der Sparte Fitness zudem regelmäßig eine E-Bike-Tour für alle Damen des ESV Deggendorf angeboten. Die Touren dauern in etwa einen halben Tag und finden monatlich von Mai bis September (immer in der ersten Woche des Monats) statt. Die Routen erstrecken sich dabei über eine Distanz von 40 bis 60 Kilometer, wobei jeweils eine Einkehr auf der Strecke vorgesehen ist. Es besteht absolute Helmpflicht.
+
 **Habt ihr Lust mitzumachen?**
 Dann meldet Euch einfach kurz per Mail an info@esv-deggendorf.de oder telefonisch bei unserer Spartenleiterin Renate Biller (Tel: 0151/50428547)
