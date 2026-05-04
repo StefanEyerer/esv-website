@@ -16,11 +16,11 @@ layout: mannschaften
 **Herren 30 (Südliga 1)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2216125" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="/images/mannschaften/herren-40.jpg" imgAlt="Herren 40 I" imgWidth="500" %}}
+{{% image-card imgSrc="/images/mannschaften/herren-40-1.jpg" imgAlt="Herren 40 I" imgWidth="500" %}}
 **Herren 40 I (Südliga 2)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2216192" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="/images/mannschaften/herren-40.jpg" imgAlt="Herren 40 II" imgWidth="500" %}}
+{{% image-card imgSrc="/images/mannschaften/herren-40-2.jpg" imgAlt="Herren 40 II" imgWidth="500" %}}
 **Herren 40 II (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2216885" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
