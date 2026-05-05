@@ -1,15 +1,15 @@
 baseURL: https://esv-deggendorf.de/
-languageCode: de-DE
+locale: de-DE
 title: ESV Deggendorf
 
 defaultContentLanguage: de
 languages:
   de:
     contentDir: content
+    direction: ltr
     disabled: false
-    languageCode: de-DE
-    languageDirection: ltr
-    languageName: Deutsch
+    label: Deutsch
+    locale: de-DE
 
 params:
   favicon: icons/favicon.png
