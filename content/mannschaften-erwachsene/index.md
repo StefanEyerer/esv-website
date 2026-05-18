@@ -28,6 +28,6 @@ layout: mannschaften
 **Herren 50 (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2216265" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
 
-{{% image-card imgSrc="" imgAlt="Damen" imgWidth="500" imgHeight="375" %}}
+{{% image-card imgSrc="/images/mannschaften/damen.jpg" imgAlt="Damen" imgWidth="500" %}}
 **Damen (Südliga 4)** <a href="https://www.btv.de/de/spielbetrieb/tabelle-spielplan.html?groupid=2216079" target="_blank">>>BTV<<</a>
 {{% /image-card %}}
