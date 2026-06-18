@@ -59,3 +59,9 @@ Leitfaden - Courtbooking
 <a href="https://cloud.esv-deggendorf.de/public/download-shares/DOcSGaTrf18Z58UFEC8xN2tPTp5rEsKT" target="_blank">
 Leitfaden - Getränkeapp
 </a>
+
+<hr />
+
+<a href="https://cloud.esv-deggendorf.de/public/download-shares/7NRrDyCT3jW527R8Ei4Q6PCjF9S5dUUm" target="_blank">
+Festschrift - 50 Jahre ESV
+</a>

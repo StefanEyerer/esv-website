@@ -7,7 +7,7 @@ title: Home
 {{% /info-section %}} -->
 
 {{% info-section %}}
-### An unsere Mitglieder: Kommts vorbei am 13.06.26 zu unserem 50-jährigem Vereinsjubiläum! Wir freuen uns auf Euch!
+### Die offizielle Festschrift zu unserem 50-jährigen Vereinsjubiläum könnt ihr euch <a href="https://cloud.esv-deggendorf.de/public/download-shares/7NRrDyCT3jW527R8Ei4Q6PCjF9S5dUUm" target="_blank">>>hier<<</a> herunterladen. 
 {{% /info-section %}}
 
 <!-- {{% image-only-section %}}
